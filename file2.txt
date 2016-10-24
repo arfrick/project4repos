@@ -1,2 +1,4 @@
 this is a new file called file2.
 this file is modified!
+
+Changed by Amanda
